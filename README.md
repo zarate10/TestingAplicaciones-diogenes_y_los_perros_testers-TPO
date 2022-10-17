@@ -1,7 +1,7 @@
 # Testing de Aplicaciones: Trabajo Práctico Obligatorio
 
 ## Nombre del equipo
-- Diógenes y los perros ingenieros en testing.
+- Diógenes y los perros SDET.
 
 ## Integrantes
 - Cañete, Andrés.
