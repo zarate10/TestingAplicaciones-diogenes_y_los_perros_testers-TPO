@@ -1,2 +1,11 @@
-# TestingAplicaciones-di-genes-y-los-perros-TPO
-Grupo
+# Testing de Aplicaciones: Trabajo Práctico Obligatorio
+
+## Nombre del equipo
+- Diógenes y los perros
+
+## Integrantes
+- Cañete, Andrés.
+- Costantini, Nicolás.
+- Touris, Santiago. 
+- Traba, Federico.
+- Zarate, Lautaro.
