@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# instrucciones
+instrucciones.md
+
+# testeo de pytest
+test_pytest/
