@@ -9,3 +9,4 @@
 
 - PE-53 [TEST-PLAN](https://docs.google.com/document/d/1nLs9V6VCyeB83M4EUAzfIubXvhbm4_5vgCuG957d_TY) — [TC's](https://docs.google.com/spreadsheets/d/1J6Dpg0AByFZncXsjGkP_th51rN9pR2NC7qyvKduGwdk)
 - PE-44 [TEST-PLAN](https://docs.google.com/document/d/1nLs9V6VCyeB83M4EUAzfIubXvhbm4_5vgCuG957d_TY) — [TC's](https://docs.google.com/spreadsheets/d/1m7CZX26biVGjB3rCEYVweXTjZU9w6vKl_Wk7fhPUWAs)
+- PE-10 [TEST-PLAN](https://docs.google.com/document/d/1nLs9V6VCyeB83M4EUAzfIubXvhbm4_5vgCuG957d_TY) — [TC's](https://docs.google.com/spreadsheets/d/184sNEzGRbU-9D2UkaRFBWx04IxHQ9GSD1pxXqZe3pOo)
